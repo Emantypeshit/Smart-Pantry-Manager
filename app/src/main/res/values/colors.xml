@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Brand palette taken from the Smart Pantry Manager logo: yellow + deep green -->
+    <color name="yellow">#FFC61A</color>
+    <color name="yellow_dark">#E6A800</color>
+    <color name="yellow_light">#FFE680</color>
+    <color name="cream">#FFF8E1</color>
+    <!-- Complementary colours -->
+    <color name="green_dark">#0F3D1E</color>
+    <color name="green">#2E7D32</color>
+    <color name="orange">#F57C00</color>
+    <color name="orange_light">#FFE0B2</color>
+    <color name="tomato">#D8432B</color>
+    <color name="text_dark">#1F2A1F</color>
+    <color name="text_muted">#6B6B50</color>
+    <color name="white">#FFFFFF</color>
+</resources>
